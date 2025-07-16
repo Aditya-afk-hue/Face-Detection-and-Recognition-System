@@ -126,7 +126,7 @@ model.fit(train_images, train_labels, epochs=10)
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
-Your Name - your.email@example.com  
-Project Link: [https://github.com/yourusername/face-detection](https://github.com/yourusername/face-detection)
+Your Name - adityaranjansamal8@gmail.com 
+Project Link: https://github.com/Aditya-afk-hue/Face-Detection-and-Recognition-System
 ```
 
