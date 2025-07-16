@@ -1,6 +1,3 @@
-Here's the polished, final version of your `README.md` with improved organization, clearer instructions, and professional formatting:
-
-```markdown
 # Face Detection and Recognition System 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
